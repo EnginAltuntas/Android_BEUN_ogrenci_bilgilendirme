@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">ZBEU</string>
+    <string name="Site"><a href="https://w3.beun.edu.tr/tum-haberler.html">buradan</a></string>
+    <string name="etkinlikler"><a href="https://w3.beun.edu.tr/tum-etkinlikler.html">buradan</a></string>
+    <string name="duyurular"><a href="https://w3.beun.edu.tr/tum-duyurular.html">buradan</a></string>
+
+</resources>
